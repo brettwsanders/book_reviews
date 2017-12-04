@@ -4,6 +4,32 @@ Author: Robert L. Glass
 Rating: 4 / 5 stars
 
 Reviews
+This is a short, fun and easy-to-digest book aimed at software engineers and managers. The book is structured well as each fact and fallacy is followed with a section for discussion, controversy, sources and references. Each fact is usually supported by solid evidence, but I would like to dig into some of the studies as some of the results seem suspicous. The author's personality comes through in his writing which makes the book feel less academic and more fun to read (he is known as the
+premier curmudgion of software practice). 
+
+
+This book gets 4 stars for being pleasant to read, well-structured, and efficiently impactful. I would have liked to see more studies supporting the facts and fallacies. A more accurate title for this book might be "55 Opinions and Fallacies Which are Probably Mostly Supported by Evidence". Since Glass has a ton of industry experience, academic experience, and he's written 25+ books it's probably safe to accept his opinions for facts. He is very aware that some facts and
+fallacies will be controversial and addresses those dissenting opionions. The book also feels a little naive at times as it seems to argue that a lot of problems in software engineering are the result of management just not understanding engineering. I agree management could benefit by being more understanding of engineers, but it goes both ways and I think engineers need to be much more understanding of the realities of running a business.
+
+Pleasant to Read
+Glass's personality comes through in his writing which makes the book feel less academic and more fun to read (he is known as the "premier cermudgion" of software practice). The writing is informal, but gets right to the point. Also, the book is succinct and moves along pretty quickly - each fact or fallacy only covers a couple of pages. 
+
+Well-Structured
+Think of this book more like a table of contents. Each fact or fallacy is quickly summarized with a discussion and controversy. Then Glass provides references and sources if you want to look further. A lot of the sources are his own books. A lot of the sources are well-regarded books like the Mythical Man Month, Peopleware, and Refactoring.
+
+Efficiently Impactful
+This book gets right to the point which means you can read it fast, and still get a lot out of it. I found myself agreeing with most of the facts and fallacies, disagreeing with a few, and being surprised by a few new ideas.
+
+More Opinion than Fact
+
+Conclusion
+
+Bridging the Gap Between Management and Engineering
+
+
+About the author
+- lots of experience in both 
+
 
 Notes
 - a more accurate title might be 55 Opinions and Fallacies which are probably mostly true.
